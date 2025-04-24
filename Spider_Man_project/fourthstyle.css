@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://wallpapers.com/images/hd/spider-man-red-background-4k-d9xypkzqqq4ed4di.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: scroll;
+}
+.Navigation{
+    overflow: hidden;
+    background-color: #333;
+}
+
+.Navigation a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.Navigation a:hover{
+    background-color: #ddd;
+    transition-duration: 0.2s;
+    color: brown;
+}
+
+   
