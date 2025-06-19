@@ -12,3 +12,5 @@ Includes multiple pages like About, Movies, Blog, and more.
 - `index.html` → Homepage
 - `about.html` → About Spiderman
 - `movies.html` → Movie list
+
+  
